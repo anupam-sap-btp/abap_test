@@ -7,6 +7,7 @@
     sizeCategory: #S,
     dataClass: #MIXED
 }
+//Comment Added One
 define view entity ZCRED_EXPOSURE as select from I_CreditExposureItem
 {
     key BusinessPartner,
